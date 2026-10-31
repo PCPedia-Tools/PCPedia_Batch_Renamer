@@ -1,2 +1,3 @@
-# PCPedia_Batch_Renamer
-A lightweight Windows utility built with Python to batch rename files quickly and safely with a modern dark UI and real-time preview.
+PCPedia Startup Manager
+PCPedia Startup Manager v1.0.0 is a lightweight, fast, and modern Windows utility designed to easily manage startup programs. Built with Python and CustomTkinter in a sleek neon-minimal dark theme.
+
